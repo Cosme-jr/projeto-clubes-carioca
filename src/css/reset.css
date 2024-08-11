@@ -1,0 +1,5 @@
+*{
+    margin: 0; /*Espaçamento interno*/
+    padding: 0;/*Espaçamento externo*/
+    box-sizing: border-box; /*facilita trabalhar com as margens e os paddings*/
+}
